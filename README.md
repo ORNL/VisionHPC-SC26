@@ -1,4 +1,7 @@
 # VisionHPC-SC26
+
+[![DOI](https://zenodo.org/badge/1185429090.svg)](https://doi.org/10.5281/zenodo.19354107)
+
 Artifact repository for SC26 for the VisionHPC paper.
 
 This artifact is composed of the next scripts:
